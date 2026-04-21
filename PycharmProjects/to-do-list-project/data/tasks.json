@@ -1,0 +1,26 @@
+[
+    {
+        "title": "mezuniyet",
+        "category": "School",
+        "priority": "High",
+        "deadline": "23.01",
+        "status": "Pending",
+        "id": "24dcc3ba-a96b-44ae-8927-d246e453b6f8"
+    },
+    {
+        "title": "sat\u0131\u015flar\u0131 gir ",
+        "category": "Work",
+        "priority": "Medium",
+        "deadline": "02.04",
+        "status": "Pending",
+        "id": "a08db7de-19fb-41ad-aa03-d6b94e710677"
+    },
+    {
+        "title": "do\u011fum g\u00fcn\u00fc pastas\u0131 ",
+        "category": "Personal",
+        "priority": "Low",
+        "deadline": "25.03",
+        "status": "Pending",
+        "id": "28c4216e-9fee-47c0-ae41-51da2dcba0be"
+    }
+]
